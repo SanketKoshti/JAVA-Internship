@@ -54,7 +54,6 @@ public class StudentManagement {
 
             switch (choice) {
                 case 1: 
-                
                     System.out.print("Enter ID: ");
                     int id = sc.nextInt();
                     sc.nextLine(); 
@@ -67,7 +66,7 @@ public class StudentManagement {
                     break;
 
                 case 2: 
-
+                
                     if (students.isEmpty()) {
                         System.out.println("No students found.");
                     } else {
