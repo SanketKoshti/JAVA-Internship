@@ -5,7 +5,7 @@ public class ToDoDBApp {
 
     static final String URL = "jdbc:mysql://localhost:3306/tododb";
     static final String USER = "root";
-    static final String PASSWORD = "Sanket@18";
+    static final String PASSWORD = "*********";
 
     public static void main(String[] args) {
 
